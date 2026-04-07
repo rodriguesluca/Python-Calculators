@@ -17,6 +17,12 @@ class MockDriverHandler(DriverHandlerInterface):
     def standard_deviation(self, numbers: List[float]) -> float:
         return 3
 
+    def variance(self, numbers: List[float]) -> float:
+        return 9
+
+    def average(self, numbers: List[float]) -> float:
+        return 3
+
 
 class TestCalculator2:
     def test_calculate(self):

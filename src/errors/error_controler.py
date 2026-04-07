@@ -1,8 +1,8 @@
 from .http_bad_request import HttpBadRequestError
 from .http_unprocessable_entity import HttpUnprocessableEntityError
+from typing import Dict
 
-
-def handle_error(self, error: Exception) -> Dict:
+def handle_error(error: Exception) -> Dict:
     if isinstance(error, (HttpBadRequestError, HttpUnprocessableEntityError)):
         return {
             "status_code": error.status_code,

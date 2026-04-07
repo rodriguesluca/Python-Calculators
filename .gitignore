@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+.env
+
+# Optional local settings or vscode specific (useful for code design projects)
+.vscode/
+.idea/
