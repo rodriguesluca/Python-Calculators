@@ -1,8 +1,8 @@
 # Calculadora - Code Design & Arquitetura
 
-Bem-vindo ao projeto **Calculadora**, desenvolvido como parte do Módulo 04 da Formação Python pela **Rocketseat**. Este projeto foca em aplicar as melhores práticas de **Code Design** e **Arquitetura de Software**.
+Bem-vindo ao projeto **Calculadoras**, desenvolvido como parte da Formação Python pela **Rocketseat**. Este projeto foca em aplicar as melhores práticas de **Code Design** e **Arquitetura de Software**.
 
-Apesar de ser uma aplicação teoricamente simples (uma calculadora), o principal objetivo deste repositório é demonstrar como estruturar um código escalável, limpo e bem arquitetado em Python.
+Apesar de ser uma aplicação teoricamente simples (algumas calculadoras), o principal objetivo deste repositório é demonstrar como estruturar um código escalável, limpo e bem arquitetado em Python.
 
 ---
 
